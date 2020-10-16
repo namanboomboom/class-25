@@ -1,2 +1,2 @@
-# class-25
-an amazing game which is not complete yet
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
